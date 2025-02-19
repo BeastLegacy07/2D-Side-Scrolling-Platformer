@@ -74,7 +74,7 @@
     {"name":"inst_98E5C6C","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_ED80C31","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_57051B8C","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_607F1A54","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_38D3291","path":"rooms/Room1/Room1.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -156,7 +156,7 @@
         {"$GMRInstance":"","%Name":"inst_98E5C6C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_98E5C6C","objectId":{"name":"Object2","path":"objects/Object2/Object2.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1152.0,"y":576.0,},
         {"$GMRInstance":"","%Name":"inst_ED80C31","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_ED80C31","objectId":{"name":"Object2","path":"objects/Object2/Object2.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1088.0,"y":576.0,},
         {"$GMRInstance":"","%Name":"inst_57051B8C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_57051B8C","objectId":{"name":"Object1","path":"objects/Object1/Object1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":5.0,"scaleY":4.9,"x":431.0,"y":395.0,},
-        {"$GMRInstance":"","%Name":"inst_607F1A54","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_607F1A54","objectId":{"name":"object_hud_coin","path":"objects/object_hud_coin/object_hud_coin.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.0,"scaleY":3.0,"x":-64.0,"y":32.0,},
+        {"$GMRInstance":"","%Name":"inst_38D3291","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_38D3291","objectId":{"name":"object_hud_coin","path":"objects/object_hud_coin/object_hud_coin.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":96.0,},
       ],"layers":[],"name":"Instances","properties":[
         {"name":"g_Blend","type":0,"value":"1",},
       ],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":true,"visible":true,},
